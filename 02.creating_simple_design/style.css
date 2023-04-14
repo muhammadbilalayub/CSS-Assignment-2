@@ -1,0 +1,29 @@
+.back{
+    
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 113, 133);
+    
+}
+.price{
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+}
+.add{
+    
+    background-color: rgb(255, 216, 20);
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 25px;
+    border: none;
+    color: black;
+    margin-right: 20px;
+}
+.buy{
+    background-color: rgb(255, 164, 28);
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 25px;
+    border: none;
+    color: black;
+    
+}

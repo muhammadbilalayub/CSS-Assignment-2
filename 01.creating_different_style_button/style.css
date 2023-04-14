@@ -1,0 +1,60 @@
+.uber{
+    background-color: black;
+    text-align: center;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
+.amazon{
+    background-color: rgb(255, 216, 20);
+    border-radius: 25px;
+    padding: 10px 20px;
+    text-align: center;
+    
+}
+.github{
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(46, 164, 79);
+    padding: 10px 20px;
+    color: white;
+}
+.samerow{
+    display: inline-block;
+    
+}
+.getstart{
+    border-radius: 3px;
+    text-align: center;
+    background-color: rgb(121,82,179);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    margin-right: 5px;
+}
+.download{
+    border-radius: 3px;
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
+    padding: 10px 20px;
+    border: black;
+    border-color: black;
+}
+.apply{
+    background-color: rgb(10, 102, 194);
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 25px;
+    border: none;
+    color: white;
+    margin-right: 5px;
+}
+.save{
+    background-color: white;
+    color: blue;
+    padding: 10px 20px;
+    border-radius: 25px;
+    border-color: blue;
+    text-align: center;
+}
